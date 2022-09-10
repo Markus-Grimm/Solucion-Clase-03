@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Ejercicio3 : MonoBehaviour
+public class SolucionEjercicio3 : MonoBehaviour
 {
     /*---- Ordena el Codgo  ----*/
 

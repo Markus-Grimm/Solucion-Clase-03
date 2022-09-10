@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Ejercicio02 : MonoBehaviour
+public class SolucionEjercicio02 : MonoBehaviour
 {
     /*---- Mejora el codigo  ----*/
 

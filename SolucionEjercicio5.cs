@@ -2,13 +2,13 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Ejercicio05 : MonoBehaviour
+public class SolucionEjercicio5 : MonoBehaviour
 {
     /*---- Mejora el Switch ----*/
 
     //Dato: como podriamos hacer para no usar tantos "if"?
 
-
+    
     string action = "Attack";
     int hability = 1;
 
@@ -29,7 +29,7 @@ public class Ejercicio05 : MonoBehaviour
                 if (action == "Special Attack")
                     Debug.Log("Empiezo a girar como trompo");
                 break;
-
         }
+
     }
 }

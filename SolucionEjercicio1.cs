@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 
-public class Ejercicio1 : MonoBehaviour
+public class SolucionEjercicio1 : MonoBehaviour
 {    
     public float fuerza;
 

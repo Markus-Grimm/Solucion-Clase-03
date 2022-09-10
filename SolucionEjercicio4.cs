@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using UnityEngine;
 
-public class Ejercicio4 : MonoBehaviour
+public class SolucionEjercicio4 : MonoBehaviour
 {
     /*---- Busca otra alternativa ----*/
 
